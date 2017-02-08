@@ -1,0 +1,7 @@
+@import "../valo/valo";
+@import "../../addons/font-awesome-label/font-awesome";
+
+.demo {
+	@include valo;
+	@include font-awesome;
+}
